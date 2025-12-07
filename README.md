@@ -46,12 +46,10 @@ I am open to internships and collaborative projects!
 
 * **Email:** ummeammara790@gmail.com
 * **Role:** Web Developer | UI/UX Enthusiast
-
----
-*© 2025 B.Tech CSE Portfolio - Designed by Umme Ammara*
-
 ## Author
 
 * **Umme Ammara**
 * **Education:** 2nd Year B.Tech in CSE (AI & ML)
 * **Role:** UI/UX Enthusiast & Web Developer
+---
+*© 2025 B.Tech CSE Portfolio - Designed by Umme Ammara*
